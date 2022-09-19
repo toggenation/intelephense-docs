@@ -471,4 +471,5 @@ Intelephense aims to support all frameworks but does not implement framework spe
 Packages can be found online that aim to workaround these issues by providing stubs of symbols to help static analysers like Intelephense understand the code.
 
 * Laravel - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
+* CakePHP - [dereuromark/cakephp-ide-helper](https://github.com/dereuromark/cakephp-ide-helper)
 
